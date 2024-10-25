@@ -11,8 +11,7 @@
   "tasks": {
     "update": {
       "name": "update",
-      "command": "npm run update",
-      "runAtStart": false
+      "command": "npm run update"
     }
   }
 }
